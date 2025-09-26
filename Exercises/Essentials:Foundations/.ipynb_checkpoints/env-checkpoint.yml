@@ -1,0 +1,23 @@
+name: pytorch
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - matplotlib
+  - seaborn
+  - notebook
+  - pydot
+  - scikit-learn
+  - pip:
+      
+
+
+
+
+
